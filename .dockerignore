@@ -3,3 +3,5 @@ vendor
 .env
 .git
 .gitpod
+storage/*.key
+
